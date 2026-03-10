@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "EchoParrot",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "現在のタブの音声を録音してWebMファイルとして保存します — EchoParrot Beta",
   "permissions": [
     "tabCapture",

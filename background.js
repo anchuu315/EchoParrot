@@ -23,7 +23,7 @@ chrome.action.onClicked.addListener(async (tab) => {
     url: chrome.runtime.getURL('recorder.html'),
     type: 'popup',
     width: 360,
-    height: 490,   // 映像プレビュー分を考慮して高さを拡張
+    height: 560,   // 全要素が収まるよう高さを拡張
     focused: true
   });
 
